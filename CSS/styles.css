@@ -1,0 +1,87 @@
+/* Set default font family and size */
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    background-color: lightgrey;
+  }
+  
+  /* Center the main content container */
+  .container {
+    width: 80%;
+    margin: 0 auto;
+  }
+  
+  /* Style the header */
+  header {
+    background-color: #152171;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    font-weight: bolder;
+    font-style: italic;
+  }
+  
+  /* Style the main navigation menu */
+  a {
+    color: #fff;
+    padding: 10px;
+  }
+  
+
+  a {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+   a {
+    color: #fff;
+    font-style: italic;
+    text-decoration-line: underline;
+    padding: 5px;
+    border-radius: 3px;
+  }
+  
+  nav a:hover {
+    background-color: #fff;
+    color: #666;
+  }
+  
+  /* Style the main content area */
+  main {
+    padding: 20px;
+  }
+  
+  /* Style the footer */
+  footer {
+    background-color: #152171;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+
+  .favorite_classes {
+    font-size: 24px;
+    font-weight: bold;
+    font-family: Arial, sans-serif;
+    color: navy;
+    background-color: #f5f5f5;
+    padding: 20px;
+    text-align: center;
+    text-shadow: 1px 1px #ccc;
+  }
+  .favorite_classes {
+    /* other styles */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+  
+  .favorite_classes li {
+    margin: 10px;
+  }
+  
+
+  
+  
